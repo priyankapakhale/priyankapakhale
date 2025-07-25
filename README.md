@@ -65,7 +65,7 @@ An NPM library to safely handle async effects in React using a latest-call check
 | Project                  | Description                                                             | Tech Stack                  | Link |
 |--------------------------|-------------------------------------------------------------------------|-----------------------------|------|
 | **AI Financial App**     | Mobile app to manage debt, EMIs, and budget with GPT help               | React Native, TypeScript    | _Coming soon_ |
-| **useLatestAsyncEffect** | React hook to handle safe async logic inside `useEffect`                | React, TypeScript, Jest     | _Coming soon_ |
+| **useLatestEffect** | React hook to handle safe async logic inside `useEffect`                | React, TypeScript, Jest     | [_use-latest-effect_](https://github.com/priyankapakhale/use-latest-effect) |
 
 ---
 
